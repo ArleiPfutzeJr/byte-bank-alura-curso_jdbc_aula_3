@@ -1,6 +1,6 @@
 ## Teste MySQL e JDBC - Alura
 
-Este é um projeto de teste que demonstra a integração do MySQL com JDBC (Java Database Connectivity). O projeto contém exemplos de código em Java para realizar operações básicas de CRUD (Create, Read, Update e Delete) em um banco de dados MySQL usando JDBC.Este projeto foi desenvolvido como parte do curso JDBC da plataforma [Alura](https://github.com/alura-cursos).
+Este é um projeto de teste que demonstra a integração do MySQL com JDBC (Java Database Connectivity). O projeto contém exemplos de código em Java para realizar operações básicas de CRUD (Create, Read, Update e Delete) em um banco de dados MySQL usando JDBC.Este projeto foi desenvolvido como parte do curso JDBC da plataforma [Alura](https://www.alura.com.br/).
 
 ## Tecnologias Utilizadas
 
