@@ -22,17 +22,5 @@ Este é um projeto de teste que demonstra a integração do MySQL com JDBC (Java
 
 **Executar o projeto:** Execute a classe App localizada em src/main/java/com/example/testejdbc para executar o projeto. Isso criará as tabelas necessárias no banco de dados e executará os exemplos de código que realizam operações básicas de CRUD.
 
-## Estrutura do Projeto
-
-**O projeto é estruturado da seguinte forma:**
-
-**src/main/java/com/example/testejdbc:** Contém as classes Java que realizam as operações de CRUD usando JDBC.
-
-**src/main/resources/db.properties:** Contém as configurações de conexão do banco de dados.
-
-**src/main/resources/schema.sql:** Contém o script SQL para criar as tabelas no banco de dados.
-
-**src/main/resources/data.sql:** Contém o script SQL para inserir dados de exemplo nas tabelas.
-
 
 
